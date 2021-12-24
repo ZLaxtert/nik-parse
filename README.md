@@ -14,6 +14,6 @@
     $ pkg install php -y
     $ git clone https://github.com/Zlaxtert/nik-parse
     $ cd MD5-Decrypt
-    $ php main.php
+    $ php cli.php
 
 
